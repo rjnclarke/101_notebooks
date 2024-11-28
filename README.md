@@ -46,6 +46,15 @@
   * 1.9.3_vanilla_moe_e2e_hard_expert_check; **Specialization of Experts for hard MoE model**
 
 ## Part 2 - LLM Models
+* 2.1 - **QLoRA**
+  * 2.1.1_llm_instruct_data.ipynb; **Organizing data for Transformer fine-tuning**
+  * 2.1.2_llm_instruct_finetune.ipynb; **Fine-tune Mistral 7B Istruct model with QLoRA**
+  * 2.1.3_llm_instruct_ots_inference.ipynb; **Inference with the base model**
+  * 2.1.4_llm_instruct_ft_inference.ipynb; **Inference with the finetuned model**
+* 2.2 - **GPT**
+  * 2.2.1_inference_GPT_40_mini.ipynb; **Inference with OpenAI model**
+  * 2.2.2_finetune_GPT_4o_mini.ipynb; **Finetune OpenAI model through API**
+  * 2.2.3_inference_GPT_4o_mini_ft.ipynb; **Inference with the finetuned model**
   T.B.C
 
 ## Part 3 - Graph Neural Networks
