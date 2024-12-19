@@ -58,6 +58,10 @@
   T.B.C
 
 ## Part 3 - Graph Neural Networks
+* 3.1 - **GNN**
+  * 3.1.1_adjacency_matrix.ipynb; **Construction of adjacency matrices**
+  * 3.1.2_GNN_train.ipynb; **Creating and training the GNN model**
+  * 3.1.3_GNN_inference; **Inference**  
   T.B.C
 
 
